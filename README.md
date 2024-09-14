@@ -9,7 +9,7 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 - 💻 My tech stack revolves around Java, React-native, Javascript, Reactjs, Redux, MongoDB, and MySQL.
 - 💡 I'm always up for a deep dive into Data Structures, and core Computer Concepts.
 - 🤝 Always up to collaborate on Open-Source Projects and contribute to the community.
-
+- 🔭 I’m currently working on Enhancing my skills in SDE
 
 <!-- ----------- TECH STACK SECTION ------------ -->
 
