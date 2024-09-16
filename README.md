@@ -3,7 +3,6 @@
 
 
 First of all, thanks for visiting my profile. Here, what you should know about me:
-👋 Hi, I'm BHAWISH GOEL!
 
 - 🔧 Self-driven and passionate coder with a love for solving problems and writing efficient code.
 - 💻 My tech stack revolves around Java, React-native, Javascript, Reactjs, Redux, MongoDB, and MySQL.
