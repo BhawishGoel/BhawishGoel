@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Bhawish Goel</h1>
-<h3 align="center">🚀 Passionate Software Developer | React Native | Java | PHP | TABLEAU | Backend Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Data+Analyst;Tableau+Developer;React+Native+Developer;Backend+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔧 Self-driven developer who loves solving real-world problems  
-- 💻 Tech stack: **Java, React Native, React.js, Redux, MongoDB, MySQL**  
-- 💡 Strong interest in **Data Structures & Core CS Concepts**  
-- 🤝 Open to **Open Source Contributions & Collaborations**  
-- 🔭 Currently focused on becoming a **strong SDE**
+- 🔧 Passionate developer focused on building scalable apps  
+- 💻 Tech: **PHP, React Native, React.js, Redux, Java, Tableau, MongoDB, MySQL**  
+- 💡 Strong in **DSA + Core CS**  
+- 🚀 Building real-world projects  
+- 🤝 Open to collaboration & open source  
 
 ---
 
@@ -27,6 +30,43 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bhawishgoel&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhawishgoel&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph (Snake Animation)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bhawishgoel/bhawishgoel/output/github-contribution-grid-snake.svg" />
+</p>
+
+> ⚠️ You need to enable this (steps below)
+
+---
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=contest" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🚚 **Truck Buy/Sell Platform**
+  - React Native + Redux + Chat system
+  - Real-time buyer-seller communication
+
+- ⚡ **EV Charging Station App**
+  - React Native + Spring Boot
+  - Multi-provider integration (like Zomato model)
+
+
+## 🏆 Achievements & Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bhawishgoel&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
@@ -49,6 +89,4 @@
 
 ## ⚡ Fun Fact
 
-> I don’t just write code — I build scalable solutions 🚀
-
----
+> I turn ideas into real-world scalable applications 🚀
