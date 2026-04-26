@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhawish Goel</h1>
-<h3 align="center">🚀 Passionate Software Developer | React Native | Java | PHP | Backend Enthusiast</h3>
+<h3 align="center">🚀 Passionate Software Developer | React Native | Java | PHP | TABLEAU | Backend Enthusiast</h3>
 
 ---
 
