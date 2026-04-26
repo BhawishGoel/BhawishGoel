@@ -44,13 +44,7 @@
 
 ---
 
-## 🧠 LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=contest" />
-</p>
-
----
 
 ## 🚀 Featured Projects
 
@@ -62,14 +56,6 @@
   - React Native + Spring Boot
   - Multi-provider integration (like Zomato model)
 
-
-## 🏆 Achievements & Badges
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhawishgoel&theme=tokyonight&row=1&column=6" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
